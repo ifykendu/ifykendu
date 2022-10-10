@@ -2,7 +2,7 @@
 - 👀 I’m interested in data analysis
 - 🌱 I’m currently learning PYthon
 - 💞️ I’m looking to collaborate on any opensource projects
-- 📫 How to reach me ibekenduifeoma@017@gmail.com
+- 📫 How to reach me ibekenduifeoma2017@gmail.com
 
 <!---
 ifykendu/ifykendu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
